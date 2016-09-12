@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>doggyy.png</file>
+        <file>KnightInTemplarColors.png</file>
+        <file>vampire.png</file>
+        <file>bigkb_red.png</file>
+        <file>bigkb_yellow.png</file>
+        <file>wood.png</file>
+        <file>gold.png</file>
+        <file>chalice.png</file>
+        <file>crown.png</file>
+    </qresource>
+</RCC>
